@@ -9,3 +9,6 @@ Proper use of Material Design components for modern styling.
 Optimized layout handling for buttons and views with responsive design.
 This project serves as an introduction to Android development with a focus on Kotlin and XML-based UI design.
 
+![IMAGE_1](https://github.com/user-attachments/assets/821058d5-0542-4748-ad31-291a1d9c37ac)
+![IMAGE_2](https://github.com/user-attachments/assets/0cacc99c-f67b-4cf6-8ebe-8c6f199cb069)
+![IMAGE_3](https://github.com/user-attachments/assets/10a7b491-0e58-4922-ad68-b7f7743bd1f6)
