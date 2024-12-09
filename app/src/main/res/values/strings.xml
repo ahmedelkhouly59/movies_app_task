@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ASSIGNMENT2</string>
+    <string name="signup">SIGN UP</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="movie_1">Interstellar is a sci-fi film directed by Christopher Nolan, exploring humanity quest for survival through space travel.</string>
+    <string name="movie_2">Inception is a mind-bending thriller directed by Christopher Nolan, where a team of thieves infiltrates people dreams to plant ideas.</string>
+    <string name="movie_3">The Social Network is a drama directed by David Fincher, depicting the creation of Facebook and the legal battles that followed. </string>
+    <string name="movie_4">Red Notice is an action-comedy film directed by Rawson Marshall Thurber, starring Dwayne Johnson, Ryan Reynolds, and Gal Gadot.</string>
+    <string name="movie_5">Prison Break is a TV series that follows Michael Scofield as he deliberately gets imprisoned to break his wrongfully convicted brother, Lincoln Burrows, out of prison. The show blends action, suspense, and clever plotting, with high-stakes escapes and intricate plans.</string>
+    <string name="movie_6">Fast  Furious is a high-octane action film franchise centered around street racing, heists, and family. With thrilling car chases and stunts,</string>
+    <string name="movie_7">Mission: Impossible is a high-energy action film franchise starring Tom Cruise as Ethan Hunt, a secret agent who undertakes dangerous, covert missions.</string>
+    <string name="movie_8">Sound of Freedom is a 2023 thriller based on the true story of Tim Ballard, a former U.S. government agent who rescues children from human trafficking.</string>
+    <string name="movie_9">The Godfather is a 1972 crime drama directed by Francis Ford Coppola, based on Mario Puzos novel. It follows the powerful Corleone family, led by patriarch Vito Corleone, as they navigate crime, loyalty, and betrayal.</string>
+    <string name="movie_10">Joker is a psychological thriller that explores the origins of the iconic DC villain, a struggling comedian who descends into madness and becomes the notorious Joker.</string>
+
+
+
+</resources>
